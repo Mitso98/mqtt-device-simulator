@@ -1,0 +1,6 @@
+D:\projects\mqtt-ws\mqtt-ws-backend\src\main\java\com\example\mqttsimulator\model\Device.java
+D:\projects\mqtt-ws\mqtt-ws-backend\src\main\java\com\example\mqttsimulator\config\MqttConfig.java
+D:\projects\mqtt-ws\mqtt-ws-backend\src\main\java\com\example\mqttsimulator\service\DeviceService.java
+D:\projects\mqtt-ws\mqtt-ws-backend\src\main\java\com\example\mqttsimulator\controller\DeviceController.java
+D:\projects\mqtt-ws\mqtt-ws-backend\src\main\java\com\example\mqttsimulator\repository\DeviceRepository.java
+D:\projects\mqtt-ws\mqtt-ws-backend\src\main\java\com\example\mqttsimulator\MqttDeviceSimulatorApplication.java
